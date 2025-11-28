@@ -4,18 +4,18 @@ I'm Christian Chidubem Enebeli, a passionate and committed full-stack engineer w
 
 ## Tech Stack:
 <ul>
-<li>API development with NodeJS.</li>
-<li>Frontend development with Angular and Typescript.</li>
-<li>Application development, which includes front ends, APIs (RESTful and SOAP), and other backend services with C# and its related frameworks.</li>
-<li>Application development, which includes front ends, APIs (RESTful and SOAP), and other backend services with Java and Java frameworks.</li>
-<li>Use of test tools: JUnit, Selenium, and Jest</li>
-<li>Web Development with HTML, CSS, PHP, MYSQL, and JavaScript.</li>
-<li>Authentication with JWT, HASH, and RSA encryption. </li>
-<li>Strong relational database management experience with MYSQL, MSSQL, PostgreSQL</li>
-<li>Strong NoSQL skills with Redis, and Amazon DynamoDB</li>
-<li>Very good at using Linux commands in a Linux environment.</li>
-<li>Cloud Infrastructure use. Azure, AWS, Google Cloud.</li>
-<li>Analysis and Simulation with Python</li>
+<li><b>Frontend Development:</b> Angular and Typescript, PrimeFaces, ASP.NET, React</li>
+<li><b>Backend Development:</b> Java, c#, NodeJS</li>
+<li><b>Unit Testing:</b> JUnit, Selenium, and Jest</li>
+<li><b>Web Development:</b> HTML, CSS, PHP, MYSQL, and JavaScript.</li>
+<li><b>Secure Authentication:</b> JWT, HASH, and RSA encryption. </li>
+<li><b>Relational Database:</b> MYSQL, MSSQL, PostgreSQL</li>
+<li><b>NoSQL:</b> Redis, Amazon DynamoDB, Elastic Search</li>
+<li><b>Linux Environtment:</b> Strong use of commands</li>
+<li><b>Cloud Infrastructure:</b> Azure, AWS, Google Cloud.</li>
+<li><b>CI/CD:</b> GitHub Actions, AWS Pipeline</li>
+<li><b>Analysis and Simulation:</b> Python</li>
+<li><b>AI:</b> Mistral Model, Llama model, gemma model</li>
 </ul>
 
 ## Let's Connect
