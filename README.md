@@ -2,7 +2,7 @@ Hi there 👋, <br/>
 
 I'm Christian Chidubem Enebeli, a passionate and committed full-stack engineer with more than 7 years of experience creating and implementing vital applications in a variety of industries. I'm an expert in developing reliable, scalable, and effective software solutions, and I like transforming difficult problems into sophisticated, effective solutions.
 
-Tech Stack: <br/>
+## Tech Stack:
 <ul>
 <li>API development with NodeJS.</li>
 <li>Frontend development with Angular and Typescript.</li>
