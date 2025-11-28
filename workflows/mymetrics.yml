@@ -1,0 +1,30 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Base sections
+          base: header, activity
+
+          # Activity plugin (commits, PRs, issues, reviews)
+          plugin_activity: yes
+          plugin_activity_days: 30
+          plugin_activity_filter: all
+          plugin_activity_visibility: public
+          plugin_activity_limit: 10
+          plugin_activity_timestamps: true
+          plugin_activity_load: 300
+
+          # Output format
+          config_output: svg
+          filename: github-mymetrics.svg
