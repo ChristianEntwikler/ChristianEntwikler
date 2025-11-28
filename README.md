@@ -8,8 +8,6 @@ I'm Christian Chidubem Enebeli, a passionate and committed full-stack engineer w
 <li>Frontend development with Angular and Typescript.</li>
 <li>Application development, which includes front ends, APIs (RESTful and SOAP), and other backend services with C# and its related frameworks.</li>
 <li>Application development, which includes front ends, APIs (RESTful and SOAP), and other backend services with Java and Java frameworks.</li>
-<li>Counts of projects done with the implementation of HTTP communications (GET, POST, etc).</li>
-<li>Very good at reading and writing SOAP in XML formats and RESTful web services in JSON format.</li>
 <li>Use of test tools: JUnit, Selenium, and Jest</li>
 <li>Web Development with HTML, CSS, PHP, MYSQL, and JavaScript.</li>
 <li>Authentication with JWT, HASH, and RSA encryption. </li>
