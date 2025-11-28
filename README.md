@@ -25,3 +25,9 @@ LinkedIn: <a href='https://www.linkedin.com/in/christian-chidubem-enebeli-8b2306
 Email: <a mailto='Christian.enebeli100@gmail.com' target='_blank'>Christian.enebeli100@gmail.com</a><br/>
 GitHub: <a href='https://github.com/ChristianEntwikler' target='_blank'>ChristianEntwikler</a><br/>
 DevPost: <a href='https://devpost.com/ChristianEntwikler' target='_blank'>ChristianEntwikler</a>
+
+## 📊 GitHub Activity Breakdown
+![GitHub Metrics](./github-mymetrics.svg)
+
+
+
