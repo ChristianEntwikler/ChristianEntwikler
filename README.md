@@ -26,8 +26,6 @@ Email: <a mailto='Christian.enebeli100@gmail.com' target='_blank'>Christian.eneb
 GitHub: <a href='https://github.com/ChristianEntwikler' target='_blank'>ChristianEntwikler</a><br/>
 DevPost: <a href='https://devpost.com/ChristianEntwikler' target='_blank'>ChristianEntwikler</a>
 
-## 📊 GitHub Activity Breakdown
-![GitHub Metrics](./github-mymetrics.svg)
 
 
 
