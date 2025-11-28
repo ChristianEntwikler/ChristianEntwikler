@@ -12,7 +12,7 @@ I'm Christian Chidubem Enebeli, a passionate and committed full-stack engineer w
 <li><b>Relational Database:</b> MYSQL, MSSQL, PostgreSQL</li>
 <li><b>NoSQL:</b> Redis, Amazon DynamoDB, Elastic Search</li>
 <li><b>Linux Environtment:</b> Strong use of commands</li>
-<li><b>Cloud Infrastructure:</b> Azure, AWS, Google Cloud.</li>
+<li><b>Cloud Infrastructure:</b> Azure, AWS</li>
 <li><b>CI/CD:</b> GitHub Actions, AWS Pipeline</li>
 <li><b>Analysis and Simulation:</b> Python</li>
 <li><b>AI:</b> Mistral Model, Llama model, gemma model</li>
